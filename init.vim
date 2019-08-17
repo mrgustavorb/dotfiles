@@ -40,6 +40,9 @@ Plug 'sheerun/vim-polyglot'
 Plug 'itchyny/lightline.vim'
 Plug 'terryma/vim-multiple-cursors'
 
+" WakaTime quantify your coding inside Vim
+Plug 'wakatime/vim-wakatime'
+
 call plug#end()
 
 autocmd VimLeave *
