@@ -12,6 +12,7 @@ echo ----------------------------------
 echo Important packages from brew
 echo ----------------------------------
 
+brew install coreutils
 brew install git
 brew install zsh
 brew install vim
@@ -29,6 +30,8 @@ brew install imagemagick
 brew install go
 brew install htop
 brew install elixir
+brew install ffmpeg
+brew install crystal
 
 brew cask install --appdir="/Applications" vlc
 brew cask install --appdir="/Applications" caffeine
@@ -43,3 +46,9 @@ brew cask install --appdir="/Applications" visual-studio-code
 brew cask install --appdir="/Applications" telegram-desktop
 brew cask install --appdir="/Applications" whatsapp
 brew cask install --appdir="/Applications" firefox
+brew cask install --appdir="/Applications" sourcetree
+brew cask install --appdir="/Applications" gitup
+brew cask install --appdir="/Applications" keka 
+brew cask install --appdir="/Applications" keka 
+brew cask install --appdir="/Applications" macdown 
+brew cask install --appdir="/Applications" spectacle 
